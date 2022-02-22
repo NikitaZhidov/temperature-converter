@@ -1,0 +1,11 @@
+tr > td {
+  min-width: 200px;
+}
+
+.error-area {
+  visibility: hidden;
+}
+
+.error-area.visible {
+  visibility: visible;
+}
